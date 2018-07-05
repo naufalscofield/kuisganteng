@@ -430,3 +430,6 @@ def merkhp():
     {
         'hp':'Samsung'
     },
+    {
+        'hp':'Nokia'
+    },
