@@ -226,4 +226,6 @@ def makanandaerah():
     {
         'Aceh':'Mie Aceh'
     },
-    
+    {
+        'Medan':'Bika Ambon'
+    },
