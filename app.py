@@ -307,3 +307,6 @@ def wisata():
     {
         'wisata':'Floating Market'
     },
+    {
+        'wisata':'Dusun Bambu'
+    },
