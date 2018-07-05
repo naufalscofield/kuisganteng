@@ -169,3 +169,11 @@ def merektas():
     }
 ]
     return jsonify({'merek tas':merektas})  #will return the json
+
+@app.route('/binatang/farhan', methods=['GET'])
+def binatang():
+    binatang = [
+    {
+        'nama':'Kucing',
+    'Tempat':'Darat'
+    },
