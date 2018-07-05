@@ -644,7 +644,7 @@ def departstore():
 def maskapai():
     maskapai = [
     {
-        'maskapa':'Lion Air'
+        'maskapai':'Lion Air'
     },
     {
         'maskapai':'Batik Air'
