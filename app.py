@@ -14,7 +14,7 @@ def show_post(post_id):
 # def login():
 # 	return request.form['anu']
 @app.route('/input/mahasiswa')
-def alamat():
+def mahasiswa():
     alamat = [
     {
         'npm':1164001,
@@ -35,6 +35,10 @@ def alamat():
     {
         'npm':1164012,
         'nama':'farhan'
+    },
+    {
+        'npm':1164009,
+        'nama':'ikri'
     },
 ]
     return jsonify({'daftar alamat':alamat})  #will return the json
