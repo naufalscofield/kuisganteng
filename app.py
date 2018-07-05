@@ -241,3 +241,6 @@ def makanandaerah():
     {
         'Riau':'Gulai Belacan Riau'
     },
+    {
+        'Palembang':'empek empek Palembang'
+    },
