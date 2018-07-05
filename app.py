@@ -333,6 +333,7 @@ nama=[
     {
     'no':'21',
     'name':'Seta Permana',
+    'hobi':'olahraga'
     },
     {
 
