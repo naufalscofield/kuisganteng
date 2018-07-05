@@ -423,3 +423,10 @@ def rumahtradisional():
     },
     ]
     return jsonify({'berbagai rumah tradisional di indonesia':rumahtradisional})
+
+    @app.route('/merk/hp', methods=['GET'])
+def merkhp():
+    merkhp = [
+    {
+        'hp':'Samsung'
+    },
