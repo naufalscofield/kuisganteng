@@ -52,5 +52,9 @@ def mahasiswa():
         'npm':1164020,
         'nama':'ojack'
     },
+    {
+        'npm':1164021,
+        'nama':'seta'
+    }
 ]
     return jsonify({'daftar alamat':alamat})  #will return the json
