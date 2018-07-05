@@ -342,3 +342,5 @@ nama=[
     }
 ]
 
+@app.route('/club/Seta',methods=['GET'])
+
