@@ -390,3 +390,13 @@ def taritradisional():
     }
     ]
     return jsonify({'macam macam tarian tradiional':taritradisional})
+
+@app.route('/rumah/adat')
+def rumahtradisional():
+    rumahtradisional = [
+    {
+        'Krong Bade':'Aceh'
+    },
+     {
+        'Bolon':'Sumatera Utara'
+    },
