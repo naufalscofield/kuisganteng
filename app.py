@@ -343,4 +343,5 @@ nama=[
 ]
 
 @app.route('/club/Seta',methods=['GET'])
+def getAllEmp():
 
