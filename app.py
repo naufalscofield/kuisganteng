@@ -755,3 +755,39 @@ def atmbandung():
     }
     ]
     return jsonify({'Atmbandung':atmbandung})
+
+@app.route('/Barang/Elektronik', methods=['GET'])
+def elektronik():
+    elektronik = [
+    {
+        'Barang elektronik':'Smartphone'
+    },
+    {
+        'Barang elektronik':'Laptop'
+    },
+    {
+        'Barang elektronik':'Radio'
+    },
+    {
+        'Barang elektronik':'Dispenser'
+    },
+    {
+        'Barang elektronik':'Setrika'
+    },
+    {
+        'Barang elektronik':'Kamera'
+    },
+    {
+        'Barang elektronik':'Printer'
+    },
+    {
+        'Barang elektronik':'Scaner'
+    },
+    {
+        'Barang elektronik':'Kipas angin'
+    },
+    {
+        'Barang elektronik':'Speaker'
+    }
+    ]
+    return jsonify({'Barang elektronik':elektronik})
