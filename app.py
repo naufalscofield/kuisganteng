@@ -238,3 +238,6 @@ def makanandaerah():
     {
         'Bengkulu':'Pendap Benngkulu'
     },
+    {
+        'Riau':'Gulai Belacan Riau'
+    },
