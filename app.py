@@ -457,3 +457,5 @@ def merkhp():
     {
         'hp':'Mito'
     }
+    ]
+    return jsonify({'macam macam merk hp':merkhp})
