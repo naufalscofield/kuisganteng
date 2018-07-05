@@ -445,3 +445,6 @@ def merkhp():
     {
         'hp':'Xiaomi'
     },
+    {
+        'hp':'Asus'
+    },
