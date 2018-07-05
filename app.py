@@ -400,3 +400,6 @@ def rumahtradisional():
      {
         'Bolon':'Sumatera Utara'
     },
+       {
+        'Gadang':'Sumatera Barat'
+    },
