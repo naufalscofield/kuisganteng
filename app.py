@@ -32,5 +32,9 @@ def alamat():
         'npm':1164025,
         'nama':'rizal'
     },
+    {
+        'npm':1164012,
+        'nama':'farhan'
+    },
 ]
     return jsonify({'daftar alamat':alamat})  #will return the json
