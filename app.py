@@ -86,6 +86,9 @@ def kota():
     {
         'kota':'Aceh'
     },
+    {
+        'kota':'Semarang'
+    },
 
  ]
 
