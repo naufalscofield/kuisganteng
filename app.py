@@ -787,7 +787,7 @@ def elektronik():
         'Barang elektronik':'Kipas angin'
     },
     {
-        'Barang elektronik':'Speaker'
+        'Barang elektronik':'Speakerrr'
     }
     ]
     return jsonify({'Barang elektronik':elektronik})
