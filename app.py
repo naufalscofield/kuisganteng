@@ -406,3 +406,6 @@ def rumahtradisional():
     {
         'Melayu Selaso':'Riau'
     },
+    {
+        'Selaso Jatuh Kembar':'Kepulauan Riau'
+    },
