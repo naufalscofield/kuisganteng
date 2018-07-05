@@ -409,3 +409,6 @@ def rumahtradisional():
     {
         'Selaso Jatuh Kembar':'Kepulauan Riau'
     },
+    {
+        'Panjang':'Jambi'
+    },
