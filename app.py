@@ -716,4 +716,8 @@ def atmbandung():
     {
         'nama':'ATM Bank BJB',
         'Tempat':'Jl.Raya Sarimanah Sarijadi'
+    },
+    {
+        'nama':'ATM OCBC NISP',
+        'Tempat':'Setrasari Plaza'
     },	
