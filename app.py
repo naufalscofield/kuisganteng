@@ -229,3 +229,6 @@ def makanandaerah():
     {
         'Medan':'Bika Ambon'
     },
+    {
+        'Padang':'Rendang Padang'
+    },
