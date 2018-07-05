@@ -336,7 +336,7 @@ nama=[
     'hobi':'olahraga'
     },
     {
-
+    'no':'22',
     }
 ]
 
