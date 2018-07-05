@@ -733,3 +733,7 @@ def atmbandung():
         'nama':'Bank Mega',
         'Tempat':'Jl Surya Sumantri'
     },
+    {
+        'nama':'ATM Bank BJB',
+        'Tempat':'Jl.Sarijadi Raya'
+    },
