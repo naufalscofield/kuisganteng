@@ -291,3 +291,10 @@ def minumansoda():
     }
     ]
     return jsonify({'minuman':minumansoda})
+
+@app.route('/bandung/wisata', methods=['GET'])
+def wisata():
+    wisata = [
+    {
+        'wisata':'FarmHouse'
+    },
