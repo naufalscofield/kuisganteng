@@ -219,3 +219,11 @@ def binatang():
     }
     ]
     return jsonify({'Binatang':binatang})
+
+@app.route('/makanan/daerah', methods=['GET'])
+def makanandaerah():
+    makanandaerah = [
+    {
+        'Aceh':'Mie Aceh'
+    },
+    
