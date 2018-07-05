@@ -558,7 +558,7 @@ def mediasosial():
         'mediasosial':'YouTube'
     },
     {
-        'mediasosial':'interest'
+        'mediasosial':'Pinterest'
     },
     {
         'mediasosial':'Tumblr'
