@@ -286,3 +286,8 @@ def minumansoda():
     {
         'soda':'Big Cola'
     },
+    {
+        'soda':'Coca Cola'
+    }
+    ]
+    return jsonify({'minuman':minumansoda})
