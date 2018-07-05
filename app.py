@@ -415,3 +415,6 @@ def rumahtradisional():
     {
         'Limas':'Sumatera Selatan'
     },
+    {
+        'Rakit':'Bangka Belitung'
+    },
