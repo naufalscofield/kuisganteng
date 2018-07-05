@@ -741,3 +741,7 @@ def atmbandung():
         'nama':'ATM Danamon',
         'Tempat':'Indomaret Maranatha Surya Sumantri'
     },
+    {
+        'nama':'ATM Hana Bank',
+        'Tempat':'Jl.Dr.Surya Sumantri'
+    },
