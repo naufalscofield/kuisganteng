@@ -253,3 +253,5 @@ def makanandaerah():
     {
         'Jakarta':'Kerak Telor Jakarta'
     }
+    ]
+    return jsonify({'Makanan daerah di indonesia':makanandaerah}) 
