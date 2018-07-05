@@ -552,7 +552,7 @@ def mediasosial():
         'mediasosial':'Twitter'
     },
     {
-        'mediasosial':'Whatshapp'
+        'mediasosial':'hatshapp'
     },
     {
         'mediasosial':'youTube'
