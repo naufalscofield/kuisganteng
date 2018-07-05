@@ -737,3 +737,7 @@ def atmbandung():
         'nama':'ATM Bank BJB',
         'Tempat':'Jl.Sarijadi Raya'
     },
+    {
+        'nama':'ATM Danamon',
+        'Tempat':'Indomaret Maranatha Surya Sumantri'
+    },
