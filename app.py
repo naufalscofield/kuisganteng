@@ -108,28 +108,28 @@ def kampus():
         'universitas':'Maranatha'
     },
     {
-        'institut'='ITB'
+        'institut':'ITB'
     },
     {
-        'politeknik'='Polban'
+        'politeknik':'Polban'
     },
     {
-        'universitas'='UPI'
+        'universitas':'UPI'
     },
     {
-        'universitas'='Unpad'
+        'universitas':'Unpad'
     },
     {
-        'politeknik'='poltekpos'
+        'politeknik':'poltekpos'
     },
     {
-        'universitas'='Unisba'
+        'universitas':'Unisba'
     },
     {
-        'politeknik'='Polman'
+        'politeknik':'Polman'
     },
     {
-        'institut'='ITENAS'
+        'institut':'ITENAS'
     }
 ]
     return jsonify({'daftar kampus di Bandung':kampus})  #will return the json
