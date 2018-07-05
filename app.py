@@ -68,8 +68,11 @@ def kota():
     {
         'kota':'Jakarta'
     },
-        {
+    {
         'kota':'Surabaya'
+    },
+    {
+        'kota':'Palembang'
     },
 
  ]
