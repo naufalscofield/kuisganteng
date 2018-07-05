@@ -352,4 +352,4 @@ def daftarhargagamesteam():
     return game_steam
 
 @app.route('/Septi Nurhidayah', methods=['VIEW'])
-
+def ():
