@@ -442,3 +442,6 @@ def merkhp():
     {
         'hp':'Sonny'
     },
+    {
+        'hp':'Xiaomi'
+    },
