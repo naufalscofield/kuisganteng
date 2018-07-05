@@ -555,7 +555,7 @@ def mediasosial():
         'mediasosial':'Whatshapp'
     },
     {
-        'mediasosial':'YouTube'
+        'mediasosial':'ouTube'
     },
     {
         'mediasosial':'Pinterest'
