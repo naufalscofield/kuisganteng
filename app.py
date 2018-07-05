@@ -175,5 +175,9 @@ def binatang():
     binatang = [
     {
         'nama':'Kucing',
-    'Tempat':'Darat'
+        'Tempat':'Darat'
+    },
+    {
+        'nama':'Anjing',
+        'Tempat':'Darat'
     },
