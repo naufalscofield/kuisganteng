@@ -388,3 +388,5 @@ def taritradisional():
     {
         'tari':'Jaipong'
     }
+    ]
+    return jsonify({'macam macam tarian tradiional':taritradisional})
