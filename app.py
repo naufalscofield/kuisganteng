@@ -639,4 +639,39 @@ def departstore():
         'store':'Giovani'
     }
 ]
-    return jsonify({'departemen store':departstore})    
+    return jsonify({'departemen store':departstore})
+@app.route('/maskapai/penerbangan')
+def maskapai():
+    maskapai = [
+    {
+        'maskapa':'Lion Air'
+    },
+    {
+        'maskapai':'Batik Air'
+    },
+    {
+        'maskapai':'Air Asia'
+    },
+    {
+        'maskapai':'Sriwijaya Air'
+    },
+    {
+        'maskapai':'Citilink'
+    },
+    {
+        'maskapai':'Garuda Indonesia'
+    },
+    {
+        'maskapai':'Wings Air'
+    },
+    {
+        'maskapai':'Susi Air'
+    },
+    {
+        'maskapai':'Xpress Air'
+    },
+    {
+        'maskapai':'Trans Nusa'
+    }
+]
+    return jsonify({'maskapai penerbangan':maskapai})      
