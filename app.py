@@ -247,3 +247,9 @@ def makanandaerah():
     {
         'Bangka':'Mie Bangka'
     },
+    {
+        'Lampung':'Seruit Lampung'
+    },
+    {
+        'Jakarta':'Kerak Telor Jakarta'
+    }
