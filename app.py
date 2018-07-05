@@ -348,6 +348,6 @@ def getAllEmp():
     
 @app.route('/input/daftarhargagamesteam')
 def daftarhargagamesteam():
-    game_steam = "Daftar Harga Game Steam"
+    game_steam = "Daftar Harga Game Di Steam"
     return game_steam
 
