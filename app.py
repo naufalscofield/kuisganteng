@@ -244,3 +244,6 @@ def makanandaerah():
     {
         'Palembang':'empek empek Palembang'
     },
+    {
+        'Bangka':'Mie Bangka'
+    },
