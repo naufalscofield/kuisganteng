@@ -149,5 +149,8 @@ def merektas():
     {
         'tas':'Hermes'
     },
+    {
+        'tas':'Louis Voition'
+    },
 ]
     return jsonify({'merek tas':merektas})  #will return the json
