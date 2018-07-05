@@ -18,7 +18,15 @@ def alamat():
     alamat = [
     {
         'npm':1164001,
+        'nama':'aldi'
+    },
+    {
+        'npm':1164019,
         'nama':'naufal'
-    }
+    },
+    {
+        'npm':1164026,
+        'nama':'rojasqi'
+    },
 ]
     return jsonify({'daftar alamat':alamat})  #will return the json
