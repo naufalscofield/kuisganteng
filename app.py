@@ -345,4 +345,9 @@ nama=[
 @app.route('/club/Seta',methods=['GET'])
 def getAllEmp():
     return jsonify({'data':nama})
+    
+@app.route('/input/ndaftarhargagame')
+def daftarhargagame():
+    game = "Daftar Harga Game"
+    return game
 
