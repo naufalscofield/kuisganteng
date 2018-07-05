@@ -361,3 +361,6 @@ def taritradisional():
     {
         'tari':'Reyog Ponorogo'
     },
+    {
+        'tari':'Serimpi'
+    },
