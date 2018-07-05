@@ -351,5 +351,5 @@ def daftarhargagamesteam():
     game_steam = "Daftar Harga Game Di Steam"
     return game_steam
 
-@app.route('/Septi Nurhidayah', methods=)
+@app.route('/Septi Nurhidayah', methods=[])
 
