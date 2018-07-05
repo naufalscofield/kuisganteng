@@ -125,5 +125,8 @@ def kampus():
     {
         'universitas'='Unisba'
     },
+    {
+        'politeknik'='Polman'
+    },
 ]
     return jsonify({'daftar kampus di Bandung':kampus})  #will return the json
