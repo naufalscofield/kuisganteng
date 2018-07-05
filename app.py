@@ -197,3 +197,7 @@ def binatang():
         'nama':'Kadal',
         'Tempat':'Darat'
     },
+    {
+        'nama':'Gajah',
+        'Tempat':'Darat'
+    },
