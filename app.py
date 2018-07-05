@@ -496,7 +496,7 @@ def merekmobil():
 ]
     return jsonify({'daftar mobil':merekmobil})
 
-    @app.route('/Aksesoris/onky', methods=['GET'])
+@app.route('/Aksesoris/onky', methods=['GET'])
 def aksesoris():
     aksesoris = [
     {
