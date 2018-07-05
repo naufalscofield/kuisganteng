@@ -706,7 +706,7 @@ def sepatu():
         'merek':'snakehead'
     },
     {
-        'merek':'kerawa'
+        'merek':'keraw'
     }
 ]
     return jsonify({'sepatu':sepatu})  #will return the json	
