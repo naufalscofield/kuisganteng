@@ -724,4 +724,8 @@ def atmbandung():
     {
         'nama':'ATM BCA',
         'Tempat':'Setrasari Mall Alfamart Express'
+    },
+    {
+        'nama':'ATM Bank BJB',
+        'Tempat':'Gegerkalong'
     },	
