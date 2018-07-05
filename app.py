@@ -313,3 +313,6 @@ def wisata():
     {
         'wisata':'Dago Dream Park'
     },
+    {
+        'wisata':'Nu Art'
+    },
