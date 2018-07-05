@@ -9,13 +9,13 @@ def hello_world(gurih):
 def show_post(post_id):
     # show the post with the given id, the id is an integer
     return 'Post %d' % post_id
-#
-# @app.route('/crot', methods=['POST'])
-# def login():
-# 	return request.form['anu']
+
+@app.route('/crot', methods=['POST'])
+def login():
+	return request.form['anu']
 @app.route('/input/mahasiswa')
 def mahasiswa():
-    alamat = [
+    mahasiswa = [
     {
         'npm':1164001,
         'nama':'aldi'
@@ -61,9 +61,9 @@ def mahasiswa():
 
 @app.route('/negara/kota')
 def kota():
-    kota = [
-    {
-        'Bandung'
-    }
-]
-    return jsonify({'daftar kota':kota})  #will return the json
+     kota = [
+     {
+        'kota':'Bandung'
+     }
+ ]
+     return jsonify({'daftar kota':kota})  #will return the json
