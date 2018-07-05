@@ -346,8 +346,8 @@ nama=[
 def getAllEmp():
     return jsonify({'data':nama})
     
-@app.route('/input/daftarhargagame')
-def daftarhargagame():
-    game = "Daftar Harga Game"
-    return game steam
+@app.route('/input/daftarhargagamesteam')
+def daftarhargagamesteam():
+    game_steam = "Daftar Harga Game Steam"
+    return game_steam
 
