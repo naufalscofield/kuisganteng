@@ -495,3 +495,39 @@ def merekmobil():
     }
 ]
     return jsonify({'daftar mobil':merekmobil})
+
+    @app.route('/Aksesoris/onky', methods=['GET'])
+def aksesoris():
+    aksesoris = [
+    {
+        'aksesoris':'Jam Tangan'
+    },
+    {
+        'aksesoris':'Kalung'
+    },
+    {
+        'aksesoris':'Gelang'
+    },
+    {
+        'aksesoris':'Kacamata'
+    },
+    {
+        'aksesoris':'Anting'
+    },
+    {
+        'aksesoris':'Jepitan Rambut'
+    },
+    {
+        'aksesoris':'Baju'
+    },
+    {
+        'aksesoris':'Topi'
+    },
+    {
+        'aksesoris':'Jacket'
+    },
+    {
+        'aksesoris':'Sepatu'
+    }
+]
+    return jsonify({'Aksesoris kecantikan':aksesoris})
