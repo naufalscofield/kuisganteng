@@ -421,7 +421,5 @@ def rumahtradisional():
     {
         'Bubungan Lima':'Bengkulu'
     },
-    {
-        'Nowou Sesat':'Lampung'
-    }
- ]
+    ]
+    return jsonify({'berbagai rumah tradisional di indonesia':rumahtradisional})
