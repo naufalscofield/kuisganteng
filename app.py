@@ -373,3 +373,6 @@ def taritradisional():
     {
         'tari':'Pendet'
     },
+    {
+        'tari':'Kecak'
+    },
