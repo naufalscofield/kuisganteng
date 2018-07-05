@@ -527,7 +527,7 @@ def aksesoris():
         'aksesoris':'Jacket'
     },
     {
-        'aksesori':'Sepatu'
+        'aksesoris':'Sepatu'
     }
 ]
     return jsonify({'Aksesoris kecantikan':aksesoris})
