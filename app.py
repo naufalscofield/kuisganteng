@@ -301,3 +301,6 @@ def wisata():
     {
         'wisata':'The Loudge Maribaya'
     },
+    {
+        'wisata':'Puncak Bintang'
+    },
