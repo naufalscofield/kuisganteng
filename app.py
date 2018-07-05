@@ -265,3 +265,6 @@ def minumansoda():
      {
         'soda':'fanta'
     },
+    {
+        'soda':'diet coke'
+    },
