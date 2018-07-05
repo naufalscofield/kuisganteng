@@ -329,3 +329,12 @@ def wisata():
 
     return jsonify({'daftar wisata di bandung':wisata})
 
+nama=[
+    {
+
+    },
+    {
+        
+    }
+]
+
