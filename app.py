@@ -354,3 +354,10 @@ def daftarhargagamesteam():
 @app.route('/Septi Nurhidayah', methods=['VIEW'])
 def namalengkap():
     return "Septi Nurhidayah"
+
+@app.route('/tari/tradisional')
+def taritradisional():
+    taritradisional = [
+    {
+        'tari':'Reyog Ponorogo'
+    },
