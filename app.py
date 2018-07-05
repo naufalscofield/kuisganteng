@@ -459,3 +459,39 @@ def merkhp():
     }
     ]
     return jsonify({'macam macam merk hp':merkhp})
+
+@app.route('/merek/merekmobil')
+def merekmobil():
+    merekmobil = [
+    {
+        'merek':'Lamborghini'
+    },
+    {
+        'merek':'BMW'
+    },
+    {
+        'merek':'Ford'
+    },
+    {
+        'merek':'Audi'
+    },
+    {
+        'merek':'Volkswagen'
+    },
+    {
+        'merek':'Porsche'
+    },
+    {
+        'merek':'Ferrari'
+    },
+    {
+        'merek':'Subaru'
+    },
+    {
+        'merek':'Bugatti'
+    },
+    {
+        'merek':'Copper'
+    }
+]
+    return jsonify({'daftar kota':kota})
