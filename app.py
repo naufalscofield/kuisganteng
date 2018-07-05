@@ -379,3 +379,6 @@ def taritradisional():
     {
         'tari':'Saman'
     },
+    {
+        'tari':'Tortor'
+    },
