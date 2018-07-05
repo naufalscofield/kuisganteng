@@ -609,7 +609,7 @@ def pakaianadat():
 def departstore():
     departstore = [
     {
-        'stor':'Yogya'
+        'store':'Yogya'
     },
     {
         'store':'Griya'
