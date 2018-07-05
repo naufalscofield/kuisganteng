@@ -491,7 +491,7 @@ def merekmobil():
         'merek':'Bugatti'
     },
     {
-        'merek':'Copper'
+        'mere':'Copper'
     }
 ]
     return jsonify({'daftar kota':kota})
