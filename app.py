@@ -277,4 +277,6 @@ def minumansoda():
     {
         'soda':'Redbull'
     },
-    
+    {
+        'soda':'Mocktail'
+    },
