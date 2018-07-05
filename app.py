@@ -150,7 +150,7 @@ def merektas():
         'tas':'Hermes'
     },
     {
-        'tas':'Louis Voition'
+        'tas':'Louis Vuiton'
     },
     {
         'tas':'YVL'
@@ -160,6 +160,9 @@ def merektas():
     },
     {
         'tas':'Gucci'
+    },
+    {
+        'tas':'Givenchy'
     },
 ]
     return jsonify({'merek tas':merektas})  #will return the json
