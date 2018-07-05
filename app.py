@@ -531,3 +531,40 @@ def aksesoris():
     }
 ]
     return jsonify({'Aksesoris kecantikan':aksesoris})
+	
+
+@app.route('/media/sosial', methods=['GET'])
+def mediasosial():
+    mediasosial = [
+    {
+        'mediasosial':'Facebook'
+    },
+    {
+        'mediasosial':'Instagram'
+    },
+    {
+        'mediasosial':'Line'
+    },
+    {
+        'mediasosial':'BBM'
+    },
+    {
+        'mediasosial':'Twitter'
+    },
+    {
+        'mediasosial':'Whatshapp'
+    },
+    {
+        'mediasosial':'YouTube'
+    },
+    {
+        'mediasosial':'Pinterest'
+    },
+    {
+        'mediasosial':'Tumblr'
+    },
+    {
+        'mediasosial':'Flickr'
+    }
+]
+    return jsonify({'media sosial':mediasosial}) 
