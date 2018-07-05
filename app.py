@@ -561,7 +561,7 @@ def mediasosial():
         'mediasosial':'Pinterest'
     },
     {
-        'mediasosial':'umblr'
+        'mediasosial':'Tumblr'
     },
     {
         'mediasosial':'Flickr'
