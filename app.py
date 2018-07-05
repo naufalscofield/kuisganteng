@@ -322,3 +322,10 @@ def wisata():
     {
         'wisata':'Gunung Tangkuban Perahu'
     },
+    {
+        'wisata':'Kebun Teh'
+    }
+]
+
+    return jsonify({'daftar wisata di bandung':wisata})
+
