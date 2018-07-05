@@ -421,3 +421,7 @@ def rumahtradisional():
     {
         'Bubungan Lima':'Bengkulu'
     },
+    {
+        'Nowou Sesat':'Lampung'
+    }
+ ]
