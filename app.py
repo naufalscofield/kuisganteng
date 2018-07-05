@@ -310,3 +310,6 @@ def wisata():
     {
         'wisata':'Dusun Bambu'
     },
+    {
+        'wisata':'Dago Dream Park'
+    },
