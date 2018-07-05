@@ -262,7 +262,7 @@ def minumansoda():
     {
         'soda':'Sprite'
     },
-     {
+    {
         'soda':'fanta'
     },
     {
@@ -274,3 +274,7 @@ def minumansoda():
     {
         'soda':'Aw'
     },
+    {
+        'soda':'Redbull'
+    },
+    
