@@ -436,3 +436,6 @@ def merkhp():
     {
         'hp':'Oppo'
     },
+    {
+        'hp':'Vivo'
+    },
