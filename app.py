@@ -567,4 +567,41 @@ def mediasosial():
         'mediasosial':'Flickr'
     }
 ]
-    return jsonify({'media sosial':mediasosial}) 
+    return jsonify({'media sosial':mediasosial})
+
+@app.route('/pakaian/adat', methods=['GET'])
+def pakaianadat():
+    pakaianadat = [
+    {
+        'pakaian adat':'Ulee Balang'
+    },
+    {
+        'pakaian adat':'Ulos'
+    },
+    {
+        'pakaian adat':'Bundo Kanduang'
+    },
+    {
+        'pakaian adat':'Melayu'
+    },
+    {
+        'pakaian adat':'Belanga'
+    },
+    {
+        'pakaian adat':'Melayu Jambi'
+    },
+    {
+        'pakaian adat':'Aesan Gede'
+    },
+    {
+        'pakaian adat':'Paksian'
+    },
+    {
+        'pakaian adat':'Tulang Bawang'
+    },
+    {
+        'pakaian adat':'Betawi'
+    }
+    ]
+    return jsonify({'Pakaian adat':pakaianadat})
+
