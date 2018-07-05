@@ -57,4 +57,4 @@ def mahasiswa():
         'nama':'seta'
     }
 ]
-    return jsonify({'daftar alamat':alamat})  #will return the json
+    return jsonify({'daftar mahasiswa':mahasiswa})  #will return the json
