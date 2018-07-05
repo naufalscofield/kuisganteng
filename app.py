@@ -58,3 +58,12 @@ def mahasiswa():
     }
 ]
     return jsonify({'daftar mahasiswa':mahasiswa})  #will return the json
+
+@app.route('/negara/kota')
+def kota():
+    kota = [
+    {
+        'Bandung'
+    }
+]
+    return jsonify({'daftar kota':kota})  #will return the json
