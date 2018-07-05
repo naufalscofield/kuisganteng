@@ -213,3 +213,9 @@ def binatang():
         'nama':'Badak',
         'Tempat':'Darat'
     },
+    {
+        'nama':'Gorila',
+        'Tempat':'Darat'
+    }
+    ]
+    return jsonify({'Binatang':binatang})
