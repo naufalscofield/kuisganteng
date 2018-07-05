@@ -255,3 +255,10 @@ def makanandaerah():
     }
     ]
     return jsonify({'Makanan daerah di indonesia':makanandaerah}) 
+
+@app.route('/minuman/soda', methods=['GET'])
+def minumansoda():
+    minumansoda = [
+    {
+        'soda':'Sprite'
+    },
