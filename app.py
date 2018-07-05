@@ -424,7 +424,7 @@ def rumahtradisional():
     ]
     return jsonify({'berbagai rumah tradisional di indonesia':rumahtradisional})
 
-    @app.route('/merk/hp', methods=['GET'])
+@app.route('/merk/hp', methods=['GET'])
 def merkhp():
     merkhp = [
     {
@@ -491,7 +491,7 @@ def merekmobil():
         'merek':'Bugatti'
     },
     {
-        'merek':'Copper'
+        'merek':'Mini Copper'
     }
 ]
-    return jsonify({'daftar kota':kota})
+    return jsonify({'daftar mobil':merekmobil})
