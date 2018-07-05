@@ -232,3 +232,6 @@ def makanandaerah():
     {
         'Padang':'Rendang Padang'
     },
+    {
+        'Jambi':'Gulai Ikan Patin Jambi'
+    },
