@@ -338,6 +338,7 @@ nama=[
     {
     'no':'22',
     'name':'Miftahul Hasanah',
+    'hobi':'masak'
     }
 ]
 
