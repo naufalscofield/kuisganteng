@@ -316,3 +316,6 @@ def wisata():
     {
         'wisata':'Nu Art'
     },
+    {
+        'wisata':'Kawah Putih'
+    },
