@@ -133,3 +133,12 @@ def kampus():
     }
 ]
     return jsonify({'daftar kampus di Bandung':kampus})  #will return the json
+
+@app.route('/brand/tas', methods=['GET'])
+def merektas():
+    merektas = [
+    {
+        'tas':'Chanel'
+    }
+]
+    return jsonify({'merek tas':merektas})  #will return the json
