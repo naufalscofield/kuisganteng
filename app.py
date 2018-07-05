@@ -674,4 +674,39 @@ def maskapai():
         'maskapai':'Trans Nusa'
     }
 ]
-    return jsonify({'maskapai penerbangan':maskapai})      
+    return jsonify({'maskapai penerbangan':maskapai})   
+@app.route('/input/sepatu')
+def sepatu():
+    sepatu = [
+    {
+        'merek':'adidas'
+    },
+    {
+        'merek':'reebok'
+    },
+    {
+        'merek':'ardiles'
+    },
+    {
+        'merek':'nike'
+    },
+    {
+        'merek':'wirisab'
+    },
+    {
+        'merek':'retmq'
+    },
+    {
+        'merek':'labiray'
+    },
+    {
+        'merek':'puma'
+    },
+    {
+        'merek':'snakehead'
+    },
+    {
+        'merek':'keraw'
+    }
+]
+    return jsonify({'sepatu':sepatu})  #will return the json	
