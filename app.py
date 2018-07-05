@@ -451,3 +451,9 @@ def merkhp():
     {
         'hp':'Huawei'
     },
+    {
+        'hp':'Esia'
+    },
+    {
+        'hp':'Mito'
+    }
