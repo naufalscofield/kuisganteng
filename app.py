@@ -235,3 +235,6 @@ def makanandaerah():
     {
         'Jambi':'Gulai Ikan Patin Jambi'
     },
+    {
+        'Bengkulu':'Pendap Benngkulu'
+    },
