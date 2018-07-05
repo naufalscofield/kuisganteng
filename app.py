@@ -344,4 +344,5 @@ nama=[
 
 @app.route('/club/Seta',methods=['GET'])
 def getAllEmp():
+    return jsonify({'data':nama})
 
