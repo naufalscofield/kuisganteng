@@ -576,7 +576,7 @@ def pakaianadat():
         'pakaian adat':'Ulee Balang'
     },
     {
-        'pakaia adat':'Ulos'
+        'pakaian adat':'Ulos'
     },
     {
         'pakaian adat':'Bundo Kanduang'
