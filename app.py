@@ -749,3 +749,9 @@ def atmbandung():
         'nama':'ATM Mandiri',
         'Tempat':'Beat Family Karoke'
     },
+    {
+        'nama':'ATM Bank OCBC NISP',
+        'Tempat':'Jl. Dr.Surya Sumantri'
+    }
+    ]
+    return jsonify({'Atmbandung':atmbandung})
