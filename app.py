@@ -304,3 +304,6 @@ def wisata():
     {
         'wisata':'Puncak Bintang'
     },
+    {
+        'wisata':'Floating Market'
+    },
