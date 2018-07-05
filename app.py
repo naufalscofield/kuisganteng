@@ -64,6 +64,9 @@ def kota():
      kota = [
      {
         'kota':'Bandung'
+     },
+          {
+        'kota':'Jakarta'
      }
  ]
      return jsonify({'daftar kota':kota})  #will return the json
