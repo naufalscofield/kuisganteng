@@ -370,3 +370,6 @@ def taritradisional():
     {
         'tari':'Gambyong'
     },
+    {
+        'tari':'Pendet'
+    },
