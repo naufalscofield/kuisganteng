@@ -397,9 +397,12 @@ def rumahtradisional():
     {
         'Krong Bade':'Aceh'
     },
-     {
+    {
         'Bolon':'Sumatera Utara'
     },
-       {
+    {
         'Gadang':'Sumatera Barat'
+    },
+    {
+        'Melayu Selaso':'Riau'
     },
