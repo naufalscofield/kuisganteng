@@ -412,3 +412,6 @@ def rumahtradisional():
     {
         'Panjang':'Jambi'
     },
+    {
+        'Limas':'Sumatera Selatan'
+    },
