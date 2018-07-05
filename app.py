@@ -418,3 +418,6 @@ def rumahtradisional():
     {
         'Rakit':'Bangka Belitung'
     },
+    {
+        'Bubungan Lima':'Bengkulu'
+    },
