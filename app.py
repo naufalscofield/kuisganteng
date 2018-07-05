@@ -709,4 +709,11 @@ def sepatu():
         'merek':'kerawa'
     }
 ]
-    return jsonify({'sepatu':sepatu})  #will return the json	
+    return jsonify({'sepatu':sepatu})  #will return the json
+@app.route('/Atmbandung/aldi', methods=['GET'])
+def atmbandung():
+    atmbandung = [
+    {
+        'nama':'ATM Bank BJB',
+        'Tempat':'Jl.Raya Sarimanah Sarijadi'
+    },	
