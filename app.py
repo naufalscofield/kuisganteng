@@ -564,7 +564,7 @@ def mediasosial():
         'mediasosial':'Tumblr'
     },
     {
-        'mediasosial':'Flickr'
+        'mediasosial':'lickr'
     }
 ]
     return jsonify({'media sosial':mediasosial}) 
