@@ -298,3 +298,6 @@ def wisata():
     {
         'wisata':'FarmHouse'
     },
+    {
+        'wisata':'The Loudge Maribaya'
+    },
