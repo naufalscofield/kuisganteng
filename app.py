@@ -376,3 +376,6 @@ def taritradisional():
     {
         'tari':'Kecak'
     },
+    {
+        'tari':'Saman'
+    },
