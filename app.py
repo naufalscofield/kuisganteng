@@ -605,3 +605,38 @@ def pakaianadat():
     ]
     return jsonify({'Pakaian adat':pakaianadat})
 
+@app.route('/depart/store', methods=['GET'])
+def departstore():
+    departstore = [
+    {
+        'stor':'Yogya'
+    },
+    {
+        'store':'Griya'
+    },
+    {
+        'store':'Matahari'
+    },
+    {
+        'store':'Giant'
+    },
+    {
+        'store':'Ramayana'
+    },
+    {
+        'store':'Suzuya'
+    },
+    {
+        'store':'Supreme'
+    },
+    {
+        'store':'Lotte Duty'
+    },
+    {
+        'store':'Sogo'
+    },
+    {
+        'store':'Giovani'
+    }
+]
+    return jsonify({'departemen store':departstore})    
