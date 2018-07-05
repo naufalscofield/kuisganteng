@@ -61,7 +61,7 @@ def mahasiswa():
 
 @app.route('/negara/kota')
 def kota():
-     kota = [
+    kota = [
     {
         'kota':'Bandung'
     },
@@ -94,7 +94,15 @@ def kota():
     },
     {
         'kota':'Purwokerto'
-    },
- ]
-
+    }
+]
     return jsonify({'daftar kota':kota})  #will return the json
+
+@app.route('/kampus/bandung', methods=['GET'])
+def kampus():
+    kampus = [
+    {
+        'universitas':'Unpar'
+    },
+]
+    return jsonify({'daftar kampus di Bandung':kampus})  #will return the json
